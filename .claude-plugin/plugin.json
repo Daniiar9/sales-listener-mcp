@@ -1,0 +1,21 @@
+{
+  "name": "sales-listener-mcp",
+  "version": "1.0.0",
+  "description": "Social listening for sales - monitor Reddit, G2, RSS feeds, and Hacker News for competitor intel and ICP insights",
+  "author": {
+    "name": "Daniiar9",
+    "url": "https://github.com/Daniiar9"
+  },
+  "repository": "https://github.com/Daniiar9/sales-listener-mcp",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "social-listening",
+    "competitor-intelligence",
+    "reddit",
+    "g2",
+    "market-research",
+    "icp",
+    "prospecting"
+  ]
+}
